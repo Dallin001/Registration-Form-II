@@ -1,0 +1,29 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: skyblue;
+    overflow: hidden;
+   
+}
+.wrapper{
+    font-size: 30px;
+    border: 2px solid green;
+    border-radius: 15px;
+    padding: 15vh;
+    margin: 10px;
+   background-color: seagreen;
+   align-items: center;
+}
+label{
+    color: black;
+}
+input {
+    padding: 3px;
+    margin: 4px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px grey;
+    font-weight: 500;
+}
